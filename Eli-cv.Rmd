@@ -1,0 +1,245 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv-latex.tex
+geometry: margin=.7in
+
+title: "CV"
+author: Eli McKown-Dawson
+
+fontawesome: yes
+email: emckowndawson@fsu.edu
+phone: "804-774-8967"
+updated: 02-23-23
+
+keywords: R Markdown, academic CV, template
+
+mainfont: Times New Roman
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+urlcolor: blue
+
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyfoot[CO,CE]{}
+- \fancyfoot[LE,RO]{\thepage}
+---
+
+# \textcolor{CadetBlue}{Education}
+
+**Florida State University** \hfill Expected: April 2024  
+*B.S. Political Science, Honors, Research Intensive*
+
+- GPA: 4.0.
+- Minors: Statistics & Philosophy.
+- Research Intensive Bachelor's Certification. 
+
+# \textcolor{CadetBlue}{Research and Professional Experience} 
+
+**Research Assistant** \hfill January 2022 - Present  
+*LeRoy Collins Institute*
+
+- Clean and analyze statewide and national survey data with 30,000+ respondents in R and Stata using regression analyses and IRT.
+
+- Author survey questions and survey over one-million voters in Florida and New Mexico using Qualtrics. 
+
+- Construct survey weights, perform factor analyses, and author summary reports on survey data utilized by the National Science Foundation.
+
+- Co-author academic papers on election science, voter confidence, and voting behavior funding by the National Science Foundation and MIT.
+
+**Contributor** \hfill January 2022 - Present  
+*YouGov*
+
+- Author articles on politics, elections, and voting behavior using YouGov survey data.
+
+- Suggest survey questions and assist in the design of YouGov's survey experiments. 
+
+**Research Intern** \hfill September 2021 - Present  
+*DeVoe L. Moore Cener*
+
+- Conduct regression analyses on survey data using Stata.
+
+- Design and implement public opinion surveys utilizing Qualtrics. 
+
+- Publish research reports, blogs, and op-eds on survey methodology, public opinion, and how political ideology and party identification affect the behavior of college students.
+
+**Survey Data Journalism Intern** \hfill September 2022 - December 2022  
+*YouGov*
+
+- Developed poll ideas and crafted clear, concise, and fair questions for use in YouGov’s national public opinion surveys about elections and voting behavior.
+
+- Perform multivariate regression analyses in R and create data visualizations using Datawrapper.
+
+- Authored articles on American politics and developed the first survey methodology reports published by YouGov America.
+
+- Collaborated with YouGov’s team to develop likely voter models and conduct pre-election and post-election polls covering the 2022 midterm elections.
+
+\newpage
+
+**Research Analyst** \hfill June 2021 - August 2021  
+*The Potomac Advocates*
+
+- Authored weekly reports on developments in the defense and intelligence industries, with a focus on
+federal infrastructure policy, including tracking and analysis of a 1.2 trillion dollar infrastructure bill.
+
+- Tracked and analyzed lines of funding in the 770 billion dollar Department of Defense budget, assembled
+reports in Excel, and monitored congressional Armed Services and Appropriations Committee hearings.
+
+- Spearheaded ad hoc budgetary research utilizing DoD budget justification documents and CQ Federal.
+
+**Research & Fundraising Associate** \hfill March 2020 - May 2021  
+*Invictus Strategy Group*
+
+- Assembled donation history, biographies, and contact information of over 100 potential donors weekly, and maintained donor databases in Numero, ActBlue, and NGP.
+
+- Oversaw phone banking campaigns and donor outreach by calling over 100 potential donors per week while also facilitating calls between political candidates and high-dollar donors.
+
+# \textcolor{CadetBlue}{Publications} 
+
+## **Articles in Refereed Journals**
+- Atkeson, Lonna Rae, **Eli McKown-Dawson**, Robert Stein, and M.V. Trey Hood III. (2022). "Voter Perceptions of Secrecy in the 2020 Election." The Election Law Journal (Conditional Acceptance).
+
+## **Working Papers**
+- Atkeson, Lonna Rae, **Eli McKown-Dawson**, Kyle Saunders, and Jack Santucci. "The Impact of Voter Confusion in Ranked Choice Voting."
+
+- **McKown-Dawson, Eli**, and Lonna Atkeson. "The Role of Geography and Social Networks in Understanding Voting Behavior and Policy Preferences".
+
+- Atkeson, Lonna Rae, **Eli McKown-Dawson**, Robert Stein, and M.V. Trey Hood III. "The Relationship between the Cost of Voting and Voter Confidence, Beliefs about Fraud, and Voter Intimidation."
+
+- Atkeson, Lonna Rae, **Eli McKown-Dawson**, Robert Stein, and M.V. Trey Hood III. "Restoring Voter Confidence: Conditional Explanations for the Partisan Effects on Voter Confidence."
+
+## **Nonrefereed Reports**
+
+- Atkeson, Lonna Rae, Lisa A. Bryant, Wendy Hansen, Yimeng Li, Kenneth R. Mackie, and **Eli McKown-Dawson**, (2023). "100% Independent Retabulation Election Audit, Leon County, Florida." MIT Election Data and Science Lab.
+
+- Atkeson, Lonna Rae, Kenneth R. Mackie, **Eli McKown-Dawson**, Robert Stein, and M.V. Trey Hood III. (2022). "Florida 2020 Election Report." LeRoy Collins Institute.
+
+- **McKown-Dawson, Eli**, Lonna Rae Atkeson, Robert Stein, and M.V. Trey Hood III. (2022). "Vote Choice and Perceptions of Ballot Secrecy in the 2020 Election." MIT Election Data and Science Lab.
+
+- **McKown-Dawson, Eli**. (2022). "Political Expression on College Campuses: The Predictive Importance of Ideological Strength." DeVoe L. Moore Center.
+
+## **Nonrefereed Articles**
+
+- **McKown-Dawson, Eli**. (2023). "How do Americans feel about regulation of public universities?" YouGov.
+
+- **McKown-Dawson, Eli**. (2023). "Voters’ confidence in vote counting — before and after the 2022 congressional election." YouGov.
+
+- McKown-Dawson, Eli. (2022). "The Nationalization of Subpresidential Elections: Retrospective Voting and the Salience of Presidential Heuristics." The Owl.
+
+- **McKown-Dawson, Eli**. (2022). "How YouGov identifies people as Democrats and Republicans." YouGov.
+
+- **McKown-Dawson, Eli**. (2022). "Americans’ views on vote-counting deadlines and paper ballots." YouGov.
+
+- Orth, Taylor, Carl Bialik, and **Eli McKown-Dawson**. (2022). "100 policies supported by majorities of Democrats and Republicans." YouGov.
+
+- **McKown-Dawson, Eli**. (2022). "How Americans cast their votes in the 2022 election." YouGov.
+
+- **McKown-Dawson, Eli**. (2022). "How Americans feel about voting fraud and election policy." YouGov.
+
+- **McKown-Dawson, Eli**. (2022). "How Americans’ personal relationships affect their voting behavior." YouGov.
+
+- **McKown-Dawson, Eli**. (2022). "Assessing Americans’ attitudes about poll workers prior to the 2022 election." YouGov.
+
+- **McKown-Dawson, Eli**. (2022). "How Does Political Ideology Affect Self-Expression on College Campuses?." DeVoe L. Moore Center.
+
+- **McKown-Dawson, Eli**. (2022). "Moderate students are most marginalized in political discussions on campuses." Tallahassee Democrat.
+
+- **McKown-Dawson, Eli**. (2021). "When it comes to views of campus climate, political ideology is important." Tallahassee Democrat.
+
+# \textcolor{CadetBlue}{Presentations} 
+
+## **Invited Presentations at Conferences**
+- **McKown-Dawson, Eli**. (2022). "Political Ideology and Self-Expression on College Campuses." DeVoe L. Moore Center Research Colloquium.
+
+## **Nonrefereed Conference Presentations**
+
+- Atkeson, Lonna Rae, Yimeng Li, **Eli McKown-Dawson**, and Kenneth Mackie. (2023) "Gender Voting Cues in Florida's 2022 Primary." APSA Elections, Public Opinion, and Voting Behavior Conference.
+
+- **McKown-Dawson, Eli**, and Lonna Atkeson. (2023). "The Role of Geography and Social Networks in Understanding Voting Behavior and Policy Preferences." Southern Political Science Association Conference.
+
+- Atkeson, Lonna Rae, **Eli McKown-Dawson**, Robert Stein, and M.V. Trey Hood III. "The Relationship between the Cost of Voting and Voter Confidence, Beliefs about Fraud, and Voter Intimidation." Southern Political Science Association Conference.
+
+- Atkeson, Lonna Rae, **Eli McKown-Dawson**, Robert Stein, and M.V. Trey Hood III. (2022). "Voter Perceptions of Secrecy in the 2020 Election." Election Science Reform and Administration Conference.
+
+- Atkeson, Lonna Rae, **Eli McKown-Dawson**, Kyle Saunders, and Jack Santucci. (2022). "The Impact of Voter Confusion in Ranked Choice Voting." APSA State Politics and Policy Conference.
+
+\newpage
+
+# \textcolor{CadetBlue}{Awards and Discinctions} 
+- American Association for Public Opinion Research Student Conference Award ($800) \hfill 2023
+- Thomas R. Dye Award ($1,000) \hfill 2023
+- Bess H. Ward Conference Presenter Award \hfill 2023
+- Pi Sigma Alpha Honor Society \hfill 2023
+- IDEA Grant & Phi Eta Sigma Undergraduate Research Award ($1,000) \hfill 2023
+- Florida State University Social Science Scholar ($5,000). \hfill 2022-2023
+- Florida State University Torchbearer 100. \hfill 2023
+- Truman Scholarship Campus Nominee. \hfill 2023
+- Honors Conference Presentation Grant ($1,500). \hfill 2023
+- College of Arts and Sciences Conference Travel Grant ($750). \hfill 2022
+- Florida State University Digital Symposium Award. \hfill 2022
+- Garnet and Gold Key Leadership Honorary. \hfill 2022
+- The Washington Center Summer Internship Scholarship ($9,000). \hfill 2022
+- Florida State University President's List. \hfill 2020-Present
+- Florida State University Global Citizenship Certificate. \hfill 2020-Present
+
+# \textcolor{CadetBlue}{Other Experience}
+
+**Director** \hfill August 2022 - Present  
+*Student Council for Undergraduate Research and Creativity*
+
+- Oversee the publication of Florida State University’s undergraduate research journal and distribution of research conference travel grants to undergraduate students.
+
+- Partner with Florida State University’s Center for Undergraduate Research and Academic Engagement to host research panels and information sessions and oversee the acquisition of $5,500+ from the FSU Student Government Association.
+
+**Student Panelist** \hfill September 2020 - Present  
+*Florida State University Academic Honor Policy Hearings*
+
+- Review evidence presented by students charged with honor policy violations and their professors
+
+- Guide students through honor policy hearings, ask questions to ascertain whether they are responsible for the violation and assign sanctions if the student is found responsible.
+
+**English Tutor** \hfill September 2022 - Present  
+*Paper Airplanes*
+
+- Tutor a student from Ukraine in English speaking, reading, and writing.
+
+- Prepare weekly lesson plans, administer midterm and final exams, and provide insight into American culture.
+
+**Voter Registration Volunteer** \hfill May 2022 - October 2022  
+*Big Bend Voting Rights Project*
+
+- Walked throughout neighborhoods in Tallahassee and Leon county to help ex-convicts and hard-to-find voters register to vote.
+
+- Called voters to remind them to vote before the 2022 midterm election.  
+
+**Director of Operations** \hfill July 2021 - April 2022  
+*Torchlight Campus Policy Center*
+
+- Oversaw accurate records of all projects and maintained the organization’s communication system on Microsoft SharePoint.
+
+- Controlled all processes related to non-profit management, fundraising, and event planning, including the acquisition of $1,800+ from the FSU Student Government Association.
+
+# \textcolor{CadetBlue}{Academics}
+
+## **Relevant Coursework**
+- Political Science Research Methods (Research Intensive). Florida State University.
+- Applied Research Design. Florida State University.
+- Electoral Politics. Florida State University.
+- Behavioral Political Economy. Florida State University.
+- Political Parties and Campaigns. Florida State University.
+- Analysis of Variance and Design of Experiments. Florida State University.
+- Applied Statistics. Florida State University.
+- Introduction to Symbolic Logic. Florida State University.
+
+## **Nondegree Education and Training**
+- LeRoy Collins Institute Undergraduate Research Fellow. \hfill 2022-Present
+- Research Intensive Bachelor’s Certification. \hfill 2021-Present
+- Fellow, Institute of Politics. \hfill 2021-Present
+- Hoover Institution Summer Policy Bootcamp (Distinction). \hfill July 2022 - August 2022
+
+# \textcolor{CadetBlue}{Skills}
+- **Advanced:** R (tidyverse and base), Stata, Qualtrics Survey Interface. 
+- **Intermediate:** Crunch.io, Datawrapper, Git.
+
