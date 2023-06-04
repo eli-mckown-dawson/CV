@@ -4,13 +4,13 @@ Builds a .pdf CV using R Markdown and LaTex. Relatively easy to edit text if you
 
 # To use
 
-1. Fork this repository. 
+1. Fork this repository and download files. 
 2. Install R and R Studio. 
-3. Open resume.Rproj in R Studio.
-4. Customize klein_cv.Rmd to edit text (can rename file also). (Optional) edit cv-latex.tex to edit formatting.
-5. Click "knit" button in R Studio to output .pdf file.
+3. Open `Eli-cv.rmd` in R Studio.
+4. Customize `Eli-cv.rmd` to edit text and/or edit cv-latex.tex to edit formatting.
+5. Ensure that `Eli-cv.rmd` and `cv-template.te` are in the same directory.
+6. Click "knit" button in R Studio to output .pdf file.
 
 Based on templates by [isteves](https://github.com/isteves/resume), [svmiller](https://github.com/svmiller/svm-r-markdown-templates), and [ryanpeek](https://github.com/ryanpeek/markdown_cv).
 
-
-The only two files that are required to run the RMarkdown is `cv-template.Rmd` and `cv-template.tex`, which should be stored in the same directory.
+![](Eli-cv.png)
